@@ -52,11 +52,11 @@ java -cp out Main
 
 ## Team
 
-| | Name | Part |
-|---|------|------|
-| 👑 | Жуматаева Амина Ғаниқызы | Team lead — research system, patterns, UML diagrams |
-| | Бекмуратов Галымжомарт Максатович | User hierarchy, enums, authentication |
-| | Нуртуганов Альфараби Нурлыбекович | Academic system, console menu |
+| Name | Part |
+|------|------|
+| Жуматаева Амина Ғаниқызы | Team lead — research system, patterns, UML diagrams |
+| Бекмуратов Галымжомарт Максатович | User hierarchy, enums, authentication |
+| Нуртуганов Альфараби Нурлыбекович | Academic system, console menu |
 
 ---
 
