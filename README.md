@@ -32,6 +32,8 @@ There is a journal subscription system where users get notified when new papers 
 - Factory for creating user objects
 
 ## Project structure
+```
+
 src/
 ├── models/
 │ ├── users/
@@ -44,6 +46,8 @@ src/
 ├── database/
 ├── menu/
 └── Main.java
+
+```
 
 ## How to run
 git clone https://github.com/Aminasssssss/kbtu-university-system.git
