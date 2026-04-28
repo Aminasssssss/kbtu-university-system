@@ -59,8 +59,13 @@ Test login: gala@kbtu.kz / 12345
 
 ## Team
 
-Жуматаева Амина Ганиkызы — Team lead, research system, patterns, UML diagrams
-Бекмуратов Галымжомарт Максатович — User hierarchy, enums, authentication, database
-Нуртуганов Альфараби Нурлыбекович — Academic system, console menu, communication
+| Name | Part |
+|------|------|
+| Жуматаева Амина Ғаниқызы | Team lead — research system, patterns, UML diagrams |
+| Бекмуратов Галымжомарт Максатович | User hierarchy, enums, authentication |
+| Нуртуганов Альфараби Нурлыбекович | Academic system, console menu |
+
+---
+
 
 CSE212 Object-Oriented Programming and Design · KBTU · Spring 2026
