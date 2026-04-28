@@ -50,11 +50,12 @@ src/
 ```
 
 ## How to run
+```bash
 git clone https://github.com/Aminasssssss/kbtu-university-system.git
 cd kbtu-university-system
 javac -d out src/**/*.java
 java -cp out main.Main
-
+```
 Test login: gala@kbtu.kz / 12345
 
 ## Team
