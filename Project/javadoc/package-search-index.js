@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"database"},{"l":"enums"},{"l":"exceptions"},{"l":"main"},{"l":"menu"},{"l":"models.academic"},{"l":"models.communication"},{"l":"models.research"},{"l":"models.users"},{"l":"patterns"},{"l":"utils"}];updateSearchResults();

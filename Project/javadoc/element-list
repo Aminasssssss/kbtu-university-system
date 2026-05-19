@@ -1,0 +1,11 @@
+database
+enums
+exceptions
+main
+menu
+models.academic
+models.communication
+models.research
+models.users
+patterns
+utils
